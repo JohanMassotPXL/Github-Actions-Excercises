@@ -11,5 +11,5 @@ jobs:
       - name: use Python
         uses: actions/setup-python@v7
       - name: run script
-        run: Run python my_script.py
+        run: python my_script.py
           
